@@ -7,7 +7,7 @@ title: About
 order: 1
 ---
 
-<img class="headshot" alt="headshot" src="{{ "/assets/headshot.jpg" | absolute_url }}">
+<img class="headshot" alt="headshot" src="{{ "/assets/headshot.JPG" | absolute_url }}">
 
 I am a recent Computer Science graduate currently based in Durham, UK. My main IT interests are Cyber Security, Machine Learning and Artificial Intelligence. Outside of IT, I have developed a passion for technical theatre and live events. Please take a look at some of my past [projects](/projects).
 
