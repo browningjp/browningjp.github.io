@@ -13,7 +13,7 @@ order: 3
 
 ## Work Experience
 
-#### **July 2017 - Present:** Technical Assistant - *Collingwood College, Durham University*
+#### **July 2017 - Present:** Technical Theatre & AV Specialist - *Collingwood College, Durham University*
 
 I am overseeing the technical and AV facilities in ongoing £6m+ development at Collingwood College, which includes a new common room, refurbished bar, gymnasium, fitness studio, and a 200-seat theatre.
 
