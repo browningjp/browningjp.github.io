@@ -9,7 +9,7 @@ order: 1
 
 <img class="headshot" alt="headshot" src="{{ "/assets/headshot.JPG" | absolute_url }}">
 
-I am a recent Computer Science graduate currently based in Durham, UK. My main IT interests are Cyber Security, Machine Learning and Artificial Intelligence. Outside of IT, I have developed a passion for technical theatre and live events. Please take a look at some of my past [projects](/projects).
+I am a Junior Solution Architect on the Red Hat graduate programme. I am currently based in Guildford, UK. My main IT interests are Cyber Security, Machine Learning and Artificial Intelligence. Outside of IT, I have developed a passion for technical theatre and live events. Please take a look at some of my past [projects](/projects).
 
 <a href="https://www.linkedin.com/in/jonnybrowning"><svg class="svg-icon"><use xlink:href="/assets/minima-social-icons.svg#linkedin"></use></svg>LinkedIn</a>
 <a href="https://github.com/browningjp"><svg class="svg-icon"><use xlink:href="/assets/minima-social-icons.svg#github"></use></svg>GitHub</a>
