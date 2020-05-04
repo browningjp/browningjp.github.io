@@ -57,7 +57,7 @@ I chaired the Technical Crew, responsible for providing technical services for s
 
 #### **Ian Graham Award** - *Durham University*
 
-Awarded for students for "significant all-round contributions to the life of the University".
+Awarded to students for "significant all-round contributions to the life of the University".
 
 #### **Knight Memorial Award** - *King Edward's School CCF (Naval Section)*
 
