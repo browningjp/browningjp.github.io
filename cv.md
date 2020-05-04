@@ -5,7 +5,7 @@ permalink: /cv/
 order: 3
 ---
 
-[Download PDF version](assets/BrowningJonny.pdf)
+[Download PDF version](../assets/BrowningJonny.pdf)
 
 ## Education
 
