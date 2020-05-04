@@ -5,6 +5,8 @@ permalink: /cv/
 order: 3
 ---
 
+[Download PDF version](assets/BrowningJonny.pdf)
+
 ## Education
 
 - **June 2017:** BSc (Hons) Computer Science (1st Class) - *Durham University*
