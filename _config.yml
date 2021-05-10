@@ -16,7 +16,7 @@
 title: Jonny Browning
 email: jb@jonnybrowning.com
 description: >- # this means to ignore newlines until "baseurl:"
-  DevOps Engineer @ [Datatonic](https://www.datatonic.com), helping customers on the journey to production AI.
+  DevOps Engineer @ Datatonic, helping customers on the journey to production AI.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.jonnybrowning.com" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  browningjp
