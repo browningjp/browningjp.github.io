@@ -15,9 +15,17 @@ order: 3
 
 ## Work Experience
 
-#### **September 2019 - Present:** Graduate Solution Architect - *Red Hat*
+#### **December 2020 - Present:** DevOps Engineer - *Datatonic*
 
-During my time at Red Hat I have helped to deliver a range of workshops for customers and partners on subjects including Ansible automation, OpenShift and Kubernetes, and agile methodologies. Throughout the graduate programme there has been a strong emphasis on training and development. In terms of technical training, I have gained skills in Linux system administration, Ansible automation, and OpenShift/Kubernetes, achieving RHCSA and RHCE (Red Hat Certified System Administrator/Engineer) qualifications. Soft skills development has included instructor-led courses in sales technique and delivering presentations. Beyond the formal training provided by Red Hat, I have been exploring other areas of interest, including AI/Machine Learning on Kubernetes, and have gained experience contributing to open source projects.
+Consultant DevOps Engineer for Datatonic, a leading Data & AI consultancy and Google's Global AI + ML Partner of the Year (2019).
+
+My focus is on the rapidly evolving area of MLOps (Machine Learning Ops), combining Data Science & ML Engineering with modern DevOps approaches to help our customers move from just experimenting and prototyping with AI, to working with end-to-end production-ready systems, addressing many of the challenges that companies face in getting business value from AI.
+
+The main technologies I work with day-to-day are Google Cloud Platform (GCP), Kubernetes, Terraform, Python and GitLab/GitHub Actions for CI/CD.
+
+#### **September 2019 - October 2020:** Graduate Solution Architect - *Red Hat*
+
+During my time at Red Hat I helped to deliver a range of workshops for customers and partners on subjects including Ansible automation, OpenShift and Kubernetes, and agile methodologies. Throughout the graduate programme there was a strong emphasis on training and development. In terms of technical training, I gained skills in Linux system administration, Ansible automation, and OpenShift/Kubernetes, achieving RHCSA and RHCE (Red Hat Certified System Administrator/Engineer) qualifications. Soft skills development included instructor-led courses in sales technique and delivering presentations. Beyond the formal training provided by Red Hat, I explored other areas of interest, including AI/Machine Learning on Kubernetes, and gained experience contributing to open source projects.
 
 #### **July 2017 - July 2019:** Technical Theatre & AV Specialist - *Collingwood College, Durham University*
 
@@ -65,54 +73,28 @@ Chosen for general merit by vote of his fellow cadets and approved by the office
 
 ## Skills
 
-#### IT
-
 - Python
-- OpenCV
-- NumPy
 - Web development
   - PHP
-  - Laravel 5
+  - NodeJS
   - HTML/CSS
-  - Javascript
-  - jQuery
+  - JavaScript
+  - SQL
+- Git
+
 - Linux (Red Hat Certified Engineer)
+- Kubernetes (Certified Kubernetes Administrator)
+- Terraform
 - Ansible
-- OpenShift & Kubernetes
+- OpenShift
+- Kubernetes
+- CI/CD
+- Google Cloud Platform
 
-
-#### Technical Theatre
-
-- Technical Direction/Production Management
-- Lighting
-  - Lighting design
-  - ETC EOS
-  - Avolites Titan
-  - MA dot2
-- Sound/PA
-  - Sound design
-  - Sound operation on analogue and digital consoles
-- Video
-  - QLab
-  - Adobe Premiere Pro
-- Pyrotechnics
-
-#### Foreign Languages
-
-- Greek - basic
-- Spanish - basic
-- French - intermediate
-
-#### Safety
-
-- Working at Heights qualification
-- Fire Marshall qualification
-- Experienced in risk assessment
-
-#### Miscellaneous
-
-- RYA Powerboat Level 2
-- RYA Safety Boat
+- Presenting
+- Technical Demonstration
+- Stakeholder Management
+- Technical Design
 
 ## Other Interests and Activities
 
